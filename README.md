@@ -35,8 +35,18 @@
 
 ![image](https://user-images.githubusercontent.com/116772918/203696639-593626ce-fc91-42a3-9fe8-81ab5aaf9b2b.png)
 
+![image](https://github.com/smvaca2/Informe---tarea-3/blob/f8a5bab71a63409f34e5ccfdc67766141882be00/corriente%203.PNG)
+
+//Resistencia total en serie//
+
+Cuando los resistores se encuentran conectados en serie los valores de cada reisistor se suman, ya que se oponen en proporción directa a su resistencia.
+
+![image](https://user-images.githubusercontent.com/116772918/203777778-43a1776f-6e36-4176-8cce-4d3746bd6ded.png)
 
 
+![image](https://user-images.githubusercontent.com/116772918/203777903-25567d91-4336-443a-ab81-e50566551235.png)
+
+![image](https://github.com/smvaca2/Informe---tarea-3/blob/f8a5bab71a63409f34e5ccfdc67766141882be00/voltaje%20en%20serie.PNG)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. RESOLUCION DE LOS EJERCICIOS**
