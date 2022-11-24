@@ -364,10 +364,63 @@ RT=24V
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+2)Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
+
+![image](https://user-images.githubusercontent.com/116772918/203833410-5c7cf22a-aef3-4ad5-98aa-1c2b554c406b.png)
+
+*Sí, ya que un circuito en paralelo tiene más de una trayectoria para la corriente que circula entre dos puntos dados.
+
+4)¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550Ω? Hay cuatro resistores, todos de igual valor
+
+La corriente entre los extremos es de 12V ya que es un circuito en paralelo
+
+Si hay 4 resistores y todos son de igual valor entonces: R=550/4= 137.5Ω
+
+Con estos datos calculo la corriente: I=V/R
+
+I=12/137.5 =0.087A
+
+6)¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-6
 
 
+![image](https://user-images.githubusercontent.com/116772918/203833661-da022084-4ce5-4ca6-9d80-aa72797482b1.png)
+
+Para este ejercicio se utilizará la formula:
+
+![image](https://user-images.githubusercontent.com/116772918/203833727-cadb3a3a-0dee-42c7-993b-faf6fdf80d34.png)
+
+*Para la posición A la resistencia total sería la suma de las 4 resistencias, la resistencia total sería igual a 0.42kΩ
+
+*Para la posición B la resistencia total sería la suma de las resistencias R1, R2 y R3, la resistencia total sería igual a 0.49kΩ
+
+*Para la posición C la resistencia total sería la suma de las resistencias R1 y R2, la resistencia total sería igual a 0.64kΩ
+
+8)Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?
+
+![image](https://user-images.githubusercontent.com/116772918/203833803-216aeb68-26e7-4d9c-a4d1-43076dfd2be8.png)
+
+Para este ejercicio primero se calculan las corrientes por cada resistor. Entonces:
+
+a)R1=15/1=15mA b)R2=15/1.8=8.33mA c)R3=15/2.2=6.81 d)R4=15/2.7=5.5mA
+
+IT=I1+I2+I3+I4
+
+Para A la corriente total es la ruma de las 4 corrientes, entonces IT=35.64mA
+
+Para B la corriente total es la ruma de las corrientes I1, I2 e I3, entonces IT=30.14mA
+
+Para A la corriente total es la ruma de las corrientes I1 e I2, entonces IT=23.33mA
+
+10)Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de: 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?
+
+IT=I1+I2+I3+I4+I5
+
+I5=IT- I1+I2+I3+I4
+
+I5=500-50-150-25-100 = 175mA
 
 
+12)En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **4. VIDEO **
