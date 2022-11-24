@@ -43,10 +43,25 @@ Cuando los resistores se encuentran conectados en serie los valores de cada reis
 
 ![image](https://user-images.githubusercontent.com/116772918/203777778-43a1776f-6e36-4176-8cce-4d3746bd6ded.png)
 
+![image](https://user-images.githubusercontent.com/116772918/203778315-70ee1b3e-4503-472f-b4e2-d27e0df104cf.png)
 
-![image](https://user-images.githubusercontent.com/116772918/203777903-25567d91-4336-443a-ab81-e50566551235.png)
 
 ![image](https://github.com/smvaca2/Informe---tarea-3/blob/f8a5bab71a63409f34e5ccfdc67766141882be00/voltaje%20en%20serie.PNG)
+
+![image](https://user-images.githubusercontent.com/116772918/203778446-fa65f493-fe33-4b0e-8aea-71c1cf1290aa.png)
+
+![image](https://user-images.githubusercontent.com/116772918/203778501-ef932bd2-28d6-45c4-810b-d77bad00813e.png)
+
+![image](https://user-images.githubusercontent.com/116772918/203778576-86b1dea9-8ced-4dc8-8bfb-c550740a7cd4.png)
+
+//Potencias en circuitos en serie//
+
+En un circuito en serie la potencia total será igual a la suma de sus potencias de cada resistor
+
+![image](https://user-images.githubusercontent.com/116772918/203778728-897eaece-b8af-4cee-ae92-7cf8b9959e17.png)
+
+![image](https://github.com/smvaca2/Informe---tarea-3/blob/a100f10d617cd427681ff4ef824db6bed4035714/mediciones%20de%20voltaje.PNG)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. RESOLUCION DE LOS EJERCICIOS**
