@@ -77,7 +77,7 @@
 
 * Para interconectar las puntas de los resistores en serie se debe conectar la punta del resistor 8 con la punta del resistor 7, la punta del resistor 4 con la del 5 y la punta del resistor 2 con la del 6
 
-4)Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie
+4)Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura 5-68.
 
 ![image](https://user-images.githubusercontent.com/116772918/203780089-b93dd271-47de-410f-9233-d138984b9def.png)
 
