@@ -33,44 +33,33 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **2. MARCO TEORICO**
 
-![image](https://user-images.githubusercontent.com/116772918/203696639-593626ce-fc91-42a3-9fe8-81ab5aaf9b2b.png)
-
-![image](https://github.com/smvaca2/Informe---tarea-3/blob/f8a5bab71a63409f34e5ccfdc67766141882be00/corriente%203.PNG)
-
-//Resistencia total en serie//
-
-Cuando los resistores se encuentran conectados en serie los valores de cada reisistor se suman, ya que se oponen en proporción directa a su resistencia.
-
-![image](https://user-images.githubusercontent.com/116772918/203777778-43a1776f-6e36-4176-8cce-4d3746bd6ded.png)
-
-![image](https://user-images.githubusercontent.com/116772918/203778315-70ee1b3e-4503-472f-b4e2-d27e0df104cf.png)
+![image](https://user-images.githubusercontent.com/93800511/143585375-950f1258-1ef0-43f8-af96-4330e1f99522.png)
 
 
-![image](https://github.com/smvaca2/Informe---tarea-3/blob/f8a5bab71a63409f34e5ccfdc67766141882be00/voltaje%20en%20serie.PNG)
+![image](https://user-images.githubusercontent.com/93835587/143501261-a346c5fc-abf6-4271-9b30-b78a396c7b24.jpeg)
 
-![image](https://user-images.githubusercontent.com/116772918/203778446-fa65f493-fe33-4b0e-8aea-71c1cf1290aa.png)
 
-![image](https://user-images.githubusercontent.com/116772918/203778501-ef932bd2-28d6-45c4-810b-d77bad00813e.png)
+![image](https://user-images.githubusercontent.com/93835587/143503994-7ad17439-ff0b-492f-9d28-ac4e1b2d04a5.jpeg)
 
-![image](https://user-images.githubusercontent.com/116772918/203778576-86b1dea9-8ced-4dc8-8bfb-c550740a7cd4.png)
 
-//Potencias en circuitos en serie//
+![image](https://user-images.githubusercontent.com/93835587/143504400-c9d8e6b5-be6a-4077-822f-89d0e6f24d77.jpeg)
 
-En un circuito en serie la potencia total será igual a la suma de sus potencias de cada resistor
 
-![image](https://user-images.githubusercontent.com/116772918/203778728-897eaece-b8af-4cee-ae92-7cf8b9959e17.png)
+![image](https://user-images.githubusercontent.com/93835587/143505016-83da85e1-9fb3-4d1d-8af7-901c1bcd8557.jpeg)
 
-![image](https://github.com/smvaca2/Informe---tarea-3/blob/a100f10d617cd427681ff4ef824db6bed4035714/mediciones%20de%20voltaje.PNG)
 
-![image](https://user-images.githubusercontent.com/116772918/203779218-0124a101-161b-4cdd-bbbc-17acde761bca.png)
+![image](https://user-images.githubusercontent.com/93835587/143583911-3f890e73-55a5-4613-abbd-2b6df8917812.jpeg)
 
-![image](https://user-images.githubusercontent.com/116772918/203779357-605e19b7-6cfd-4627-b974-5102f270d44e.png)
 
-![image](https://user-images.githubusercontent.com/116772918/203779417-0f931aa0-2610-4a37-817a-ced8ed54c169.png)
+![image](https://user-images.githubusercontent.com/93835587/143585041-a780e592-15b6-444b-b04c-92577a090d31.jpeg)
 
-![image](https://user-images.githubusercontent.com/116772918/203779550-d320f397-2f90-4756-893d-d8eac80af603.png)
 
-![image](https://user-images.githubusercontent.com/116772918/203779625-903d7ab7-5a3b-45bc-a570-937ebf7836f9.png)
+![image](https://user-images.githubusercontent.com/93835587/143586743-0d6dbaf3-fd72-4023-94f1-7ee9c165d7bc.jpeg)
+
+
+![image](https://user-images.githubusercontent.com/93835587/143587805-ebc20b9c-bf57-4d62-8399-411aa967706f.jpeg)
+
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -364,21 +353,22 @@ RT=24V
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2)Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
+1) Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería
 
-![image](https://user-images.githubusercontent.com/116772918/203833410-5c7cf22a-aef3-4ad5-98aa-1c2b554c406b.png)
+![image](https://user-images.githubusercontent.com/116772918/204117800-0d11e245-bde3-4741-81bb-6cd04b9e0d53.png)
 
-*Sí, ya que un circuito en paralelo tiene más de una trayectoria para la corriente que circula entre dos puntos dados.
+3)Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.
 
-4)¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550Ω? Hay cuatro resistores, todos de igual valor
+![image](https://user-images.githubusercontent.com/116772918/204117832-4f0d59cc-7f54-4dbb-a519-a32960b13edb.png)
 
-La corriente entre los extremos es de 12V ya que es un circuito en paralelo
+![image](https://user-images.githubusercontent.com/116772918/204117836-0cf83d44-57a7-4ba1-a6e5-9dc33676e227.png)
 
-Si hay 4 resistores y todos son de igual valor entonces: R=550/4= 137.5Ω
 
-Con estos datos calculo la corriente: I=V/R
+5) El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
 
-I=12/137.5 =0.087A
+![image](https://user-images.githubusercontent.com/116772918/204117845-83997254-ab2e-4a39-af6c-f80caa1da939.png)
+
+la respuesta para cada uno de los medidores es de 100v ya  que la fuente de poder o de alimentacion es de 100v por  lo tanto en cada uno de los  medidores va fluir el mismo voltaje
 
 6)¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-6
 
@@ -419,8 +409,139 @@ I5=IT- I1+I2+I3+I4
 
 I5=500-50-150-25-100 = 175mA
 
+15)Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:
 
-12)En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica
+![image](https://user-images.githubusercontent.com/116772918/204117989-d78219a0-632f-4ac0-b8b5-c3298c50b195.png)
+
+![image](https://user-images.githubusercontent.com/116772918/204117997-60c8c00c-bc1b-4ee4-8255-99eaabda806a.png)
+
+![image](https://user-images.githubusercontent.com/116772918/204118001-94b4b5ed-0df7-4020-a41b-5cd36c2ef2cb.png)
+
+![image](https://user-images.githubusercontent.com/116772918/204118002-dff46365-be75-45f2-a4f0-3f9c1273a9ef.png)
+
+![image](https://user-images.githubusercontent.com/116772918/204118003-4f333051-5b6a-46fa-b9ca-db23b70e7022.png)
+
+17)¿Cuál es la resistencia total de doce resistores de 6.8 kÆ dispuestos en paralelo?
+
+![image](https://user-images.githubusercontent.com/116772918/204118010-61d2cd80-3c61-42a8-be06-47a8ad10007e.png)
+
+19) Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18.
+
+Tres grupos, uno de cinco resistores de 470 Æ, otro de diez resistores de 100 Æ, y uno más de dos resistores de 100 Æ están conectados en paralelo.
+
+![image](https://user-images.githubusercontent.com/116772918/204118023-a131a36e-2192-4bc6-a1a5-aa2f72a6cd8e.png)
+
+
+21) ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
+
+![image](https://user-images.githubusercontent.com/116772918/204118032-195ec279-f531-4192-9dfe-65ddc765f003.png)
+
+![image](https://user-images.githubusercontent.com/116772918/204118037-caffcbef-5b43-4a21-b14c-10267f27250a.png)
+
+![image](https://user-images.githubusercontent.com/116772918/204118041-d07e0b03-e4ba-46d1-a0e2-d8ea8bbb5572.png)
+
+23)Tres resistores de 33 Æ están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?
+
+![image](https://user-images.githubusercontent.com/116772918/204118055-1eb6f7e5-6fc9-45ca-8032-2310b373faec.png)
+
+25)Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kÆ, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?
+
+![image](https://user-images.githubusercontent.com/116772918/204118065-6d23cb44-a9ed-4e95-b0b8-82181b035eba.png)
+
+EXPLICACIÓN Cuando un foco se funde, los demás focos permanecen encendidos
+
+27)¿A qué valor mínimo se puede ajustar el reóstato de 100 Æ mostrado en la figura 6-75 antes de que el usible de 0.5 A se funda?
+
+![image](https://user-images.githubusercontent.com/116772918/204118076-53c44dc3-d3e9-49db-8b57-7a9e736ba884.png)
+
+![image](https://user-images.githubusercontent.com/116772918/204118085-60b55897-b342-4007-85c3-04aba674f715.png)
+
+29)Encuentre los valores de las cantidades no especificadas en la figura 6-77.
+
+![image](https://user-images.githubusercontent.com/116772918/204118103-2373d053-c9f7-4fd9-ac65-5a5af05adcdc.png)
+
+![image](https://user-images.githubusercontent.com/116772918/204118112-42dc81b7-e101-4005-a2a0-a6f02e6b86cf.png)
+
+
+31)Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79
+
+
+![image](https://user-images.githubusercontent.com/116772918/204118115-ed5c929a-338f-4dc3-92ff-65d940ed4c0d.png)
+
+![image](https://user-images.githubusercontent.com/116772918/204118119-99dbf534-9538-409f-82a9-9faf400cc476.png)
+
+
+33)Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81
+
+![image](https://user-images.githubusercontent.com/116772918/204118132-b4bbc8c1-5ce9-4458-a51c-6c692bdb7d69.png)
+
+![image](https://user-images.githubusercontent.com/116772918/204118135-e6a50d68-f1e7-4412-ba75-addcc82289a4.png)
+
+35)Determine todos los valores de resistor en la figura 6-83. RT � 773 Æ.
+
+![image](https://user-images.githubusercontent.com/116772918/204118140-51fefda9-05b5-42af-a38c-8cd7275dd130.png)
+
+
+![image](https://user-images.githubusercontent.com/116772918/204118144-f5298931-c91c-41d8-b541-f09bd0bc068f.png)
+
+![image](https://user-images.githubusercontent.com/116772918/204118147-126e3252-0d77-4cc7-b9eb-154d41d2c725.png)
+
+![image](https://user-images.githubusercontent.com/116772918/204118149-59082594-4d06-4388-b262-9a44aea70ef3.png)
+
+37)En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 kÆ de escala completa entre la derivación para realizar la medición. (a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una aplicación de medición de 50 A?
+
+* La resistencia es de un miliamperio
+
+* La corriente es de 5 microamperios
+
+
+39)Determine la potencia total en cada uno de los circuitos de la figura 6-81
+
+![image](https://user-images.githubusercontent.com/116772918/204118157-31545983-c23b-4bf4-9a28-ef2d887277dc.png)
+
+![image](https://user-images.githubusercontent.com/116772918/204118159-9ec39839-a92b-4baf-a9b1-1cc7c85ba038.png)
+
+![image](https://user-images.githubusercontent.com/116772918/204118164-21446c23-d265-45c4-9c12-203e2b380502.png)
+
+41)Encuentre los valores de las cantidades no especificadas en la figura 6-84
+
+![image](https://user-images.githubusercontent.com/116772918/204118215-fb656ff8-1c8f-42bb-a638-1f88a780100a.png)
+
+![image](https://user-images.githubusercontent.com/116772918/204118216-20fb65c3-8f50-4bb7-9570-b647543f0d45.png)
+
+43)Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total
+
+![image](https://user-images.githubusercontent.com/116772918/204118226-4f5734ee-5e63-4c92-bf3c-4974084aeabb.png)
+
+45)¿Qué está mal con el circuito de la figura 6-86?
+
+![image](https://user-images.githubusercontent.com/116772918/204118236-6e04a662-9ef5-4185-8471-4730fd5423b0.png)
+
+![image](https://user-images.githubusercontent.com/116772918/204118245-d2a69a90-eb00-4f56-adc1-5e89438f1170.png)
+
+RESPUESTA
+El resistor de 8.2 kohm esta abierto
+
+47)Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de la tarjeta. Describa el procedimiento en un formato detallado paso a paso.
+
+![image](https://user-images.githubusercontent.com/116772918/204118267-44f93a0c-2360-4971-85bc-7c11dc5522c2.png)
+
+![image](https://user-images.githubusercontent.com/116772918/204118275-2150dc9c-4b6e-405f-9ce0-3d5608bbb5eb.png)
+
+![image](https://user-images.githubusercontent.com/116772918/204118277-b6899a10-27bf-4c49-bfca-0c93da1454ef.png)
+
+![image](https://user-images.githubusercontent.com/116772918/204118286-5bc09317-a802-4a54-8761-390c1f320c4c.png)
+
+49)Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4: (a) 1 y 2 (b) 2 y 3 (c) 2 y 4 (d) 1 y 4
+
+![image](https://user-images.githubusercontent.com/116772918/204118293-4c46e0f2-94e3-4eba-987c-a882e97f544e.png)
+
+![image](https://user-images.githubusercontent.com/116772918/204118302-924104bf-66cc-46fd-a44a-a07fd7315124.png)
+
+![image](https://user-images.githubusercontent.com/116772918/204118304-219d4036-f60b-4871-9b35-59ddf770e7af.png)
+
+![image](https://user-images.githubusercontent.com/116772918/204118310-b3e03681-9996-4c48-bf47-c5ea5e7c12dc.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **4. VIDEO **
@@ -432,10 +553,7 @@ https://youtu.be/19Faebg0Dhs
 
 **5. CONCLUSIONES**
 
-En conclucion en lo que respecta a las cifras significativas logramos reconocer su uso e importancia para la ingenieria y otras ciencias, su valor al estimar datos de escalas mayores o menores a la que se acostumbra en los calculos matematicos simplifica los calculos de cualquier operacion relacionada con la electronica complementando el conocimiento sobre valores representativos.
-
-Respecto a los conceptos relacionados a la electrónica fundamental tales como el voltaje, corriente y resistencia se pudo observar de manera práctica la relación estre los 3 conceptos, permitiendo un análisis completo sobre sus aplicaciones al cálculo de circuitos electrónicos y como se desarrollan estos conceptos en un ambiente práctico aplicable a la ingeniería, reconociendo los tipos y formas de los componentes a usar en la construcción de circuitos que se ven intimamente relacionados a los conceptos antes descritos, incluso permitiendonos desarrollar conocimientos sobre las formas de medir, calcular y predecir dichas relaciones
-
+En conclucion al estudiar la dinamica de los circuitos electronicos simples pudimos dislumbrar las diferentes tecnicas para determinar cargas y resistencias en los circuitos propuestos asi como sus aplicaciones practicastanto de manera fisica como virtual.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
